@@ -48,7 +48,7 @@ direction to West and from West to East.
 - EWRA: East West Right Advance corresponds to a traffic-signal state allowing traffic to go from East towards the South and from West towards the North. Right turns are permitted in these directions, while traffic in all other directions is stopped.
 <a/>  
   
-Enabling traffic flow in a particular direction necessitates setting the corresponding traffic phase to green, with each phase lasting for a duration.  Notably, the adjustment of traffic phases is governed by dynamic delta values derived from model inferences rather than fixed durations.  
+Enabling traffic flow in a particular direction necessitates setting the corresponding traffic phase to green, with each phase lasting for a duration.  Notably, the adjustment of traffic phases is governed by dynamic **delta values derived from model** inferences rather than fixed durations.  
 
 ### 3.4 Deep Neural Network:
 Our DNN model, implemented in the DQN algorithm, consists of the following components:
