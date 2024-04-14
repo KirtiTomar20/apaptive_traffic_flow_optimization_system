@@ -1,0 +1,33 @@
+***Starting server on port 8814 ***
+Error: tcpip::Socket::accept() Unable to create listening socket: Address already in use
+Quitting (on error).
+\DQL-TSC-master\intersectionConfigs\intersection.4lanes.net.xml' ... done (11ms).
+Loading done.
+Simulation started with time: 0.00.
+Warning: Choosing new speed factor 1.24 for vehicle 'S_N_236' to match departure speed 10.00 (max 5.24).
+Warning: Choosing new speed factor 1.26 for vehicle 'S_N_336' to match departure speed 10.00 (max 5.39).
+Warning: Choosing new speed factor 1.23 for vehicle 'S_N_336' to match departure speed 10.00 (max 5.01).
+Warning: Choosing new speed factor 1.21 for vehicle 'S_N_329' to match departure speed 10.00 (max 5.01).
+Warning: Choosing new speed factor 1.22 for vehicle 'S_N_329' to match departure speed 10.00 (max 6.48).
+Warning: Choosing new speed factor 1.31 for vehicle 'E_S_365' to match departure speed 10.00 (max 6.01).
+Warning: Choosing new speed factor 1.21 for vehicle 'S_N_370' to match departure speed 10.00 (max 8.43).
+Warning: Choosing new speed factor 1.25 for vehicle 'S_N_459' to match departure speed 10.00 (max 6.31).
+Warning: Choosing new speed factor 1.22 for vehicle 'S_N_474' to match departure speed 10.00 (max 5.95).
+Warning: Choosing new speed factor 1.30 for vehicle 'S_N_474' to match departure speed 10.00 (max 5.23).
+Warning: Choosing new speed factor 1.22 for vehicle 'W_S_685' to match departure speed 10.00 (max 5.41).
+Warning: Choosing new speed factor 1.20 for vehicle 'S_N_705' to match departure speed 10.00 (max 9.44).
+Warning: Choosing new speed factor 1.23 for vehicle 'S_N_745' to match departure speed 10.00 (max 9.61).
+Warning: Choosing new speed factor 1.21 for vehicle 'S_N_865' to match departure speed 10.00 (max 5.56).
+Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
+Quitting (on error).
+Simulation ended at time: 3160.00
+Performance: 
+ Duration: 384.17s
+ TraCI-Duration: 145.51s
+ Real time factor: 8.22548
+ UPS: 229.326968
+Vehicles: 
+ Inserted: 932 (Loaded: 935)
+ Running: 6
+ Waiting: 0
+
