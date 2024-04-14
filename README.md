@@ -130,6 +130,10 @@ Upon analyzing the model's outcomes, it was observed that the queue size experie
 ## 7. Conclusion
 Our novel approach integrates SUMO simulations with real-time CCTV data processing using OpenCV and YOLOv8, reducing reliance on simulated data for traffic optimization. By incorporating live traffic observations, our system enhances prediction accuracy and bridges the gap between simulation and reality. Tailored to Indian traffic conditions, our SUMO simulations ensure finely tuned solutions that optimize road efficiency and alleviate congestion. Leveraging Deep Learning, our system minimizes delays and enhances urban mobility by strategically reducing waiting times and queue lengths. This holistic strategy aims to improve traffic flow and foster the development of smoother, more efficient transportation networks. Our innovative framework represents a significant advancement in traffic management, offering practical solutions for urban mobility challenges. Through the integration of real-time data, we provide a comprehensive approach to address congestion and optimize urban transportation systems. By combining simulation and real-time observations, our system offers actionable insights to improve traffic flow and enhance road efficiency. Ultimately, our approach promises to revolutionize traffic management practices, leading to more sustainable and efficient urban mobility solutions.
  
+
+## 7. Execution Steps
+First execute TrafficLightControlAgentMain.py then run TrafficCameraProcessor.py
+
 ## 8. References:
 [1] [Eclipse Simulated Urban Mobility](https://www.eclipse.org/sumo/)  
 [2] [SUMO Routing file format](https://sumo.dlr.de/docs/Definition_of_Vehicles,_Vehicle_Types,_and_Routes.htm)  
